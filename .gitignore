@@ -1,2 +1,36 @@
-venv
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and Reports
+logs/
+*.log
+*.csv
+
+# Model and Data Files
+*.dat
+*.bz2
+screenshots/
+engagement_report.csv
+
+# Streamlit Cache
+.streamlit/
+
+# System Files
+Thumbs.db
